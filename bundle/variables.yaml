@@ -1,0 +1,4 @@
+variables:
+- team: pcherry-ci-casc-workshop-new
+- admin-user: philcgithub-admin
+- manager-user: philcgithub
